@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Dunk High By You",
+      "description": "Custom-made and delivered to you in 5 weeks or less.",
+      "price": 155,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b2674d69-3ea4-4945-8fc4-7259f8282099/custom-nike-dunk-high-by-you-shoes.png",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Force 1 High '07",
+      "description": "The Air Force 1 High '07 is everything you know best: crisp overlays, bold accents and the perfect amount of flash to let you shine",
+      "price": 899,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c066bbc4-8b68-48b6-bebd-2191d001a973/air-force-1-high-07-mens-shoes-CGjvNW.png",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Air Jordan 1 High '85 Metallic",
+      "description": "More than 35 years after its first release, the Air Jordan 1 High '85 flips the color blocks of its traditional white, ",
+      "price": 1249,
+      "category": "shoes",
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d792d565-20d2-42b7-8d1e-cb966cfab2f4/air-jordan-1-high-85-metallic-burgundy-shoes-QCCSvs.png",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Force 1 High By You",
+      "description": "Let your design shine in satin, keep it classic in canvas, and get luxe with leather.",
+      "price": 280,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ee711f04-eac6-4043-9d5d-39934515c09b/custom-nike-air-force-1-high-by-you-shoes.png",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Air Jordan 1 Zoom CMFT 2",
+      "description": "Soft suede and Jordan Brand's signature Formula 23 foam come together to give you an extra luxurious (and extra cozy) AJ1. ",
+      "price": 499,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/68538354-7dee-4373-9f49-bc65eff85ce6/air-jordan-1-zoom-cmft-2-womens-shoes-FVQrmK.png",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "Nike SFB Jungle 2 8 Leather",
+      "description": "The SFB Jungle 2 is designed to keep you comfortable in wet conditions with its breathable",
+      "price": 1749,
+      "thumbnail": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b2ec9b46-9890-4441-b96c-7dbcb84f494a/sfb-jungle-2-8-leather-mens-shoes-CF9ZML.png",
+      "quantity": 1
+    }
+  ]
+}
